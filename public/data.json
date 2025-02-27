@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      
+      "title": "The Secrets of the Universe",
+      "author": "Jane Doe",
+      "posted_date": "2025-02-01",
+      "reading_time": 15
+    },
+    {
+      "id": 2,
+     
+      "title": "Adventures Beyond Earth",
+      "author": "John Smith",
+      "posted_date": "2025-02-15",
+      "reading_time": 10
+    },
+    {
+      "id": 3,
+      "title": "The Art of Time Travel",
+      "author": "Emily Johnson",
+      "posted_date": "2025-02-20",
+      "reading_time": 20
+    },
+    {
+      "id": 4,
+      
+      "title": "Mysteries of the Mind",
+      "author": "Mark Brown",
+      "posted_date": "2025-01-30",
+      "reading_time": 12
+    },
+    {
+      "id": 5,
+      "title": "The Final Frontier",
+      "author": "Lisa White",
+      "posted_date": "2025-02-10",
+      "reading_time": 18
+    }
+  ]
+  
